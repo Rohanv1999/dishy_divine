@@ -1,0 +1,49 @@
+.form-inner.account1.log-in-box {
+  background-color: #f8f8f8;
+  padding: calc(16px + (50 - 16) * ((100vw - 320px) / (1920 - 320)));
+  border-radius: calc(8px + (12 - 8) * ((100vw - 320px) / (1920 - 320)));
+}
+
+.toggle-password {
+  position: absolute;
+  top: 38px;
+  right: 20px;
+}
+
+.toggle-passwordtwo {
+  position: absolute;
+  top: 38px;
+  right: 20px;
+}
+
+.form-fild {
+  position: relative;
+}
+
+.wrapper-2.myavilogin.log-in-section {
+  width: 45%;
+  margin: 1rem auto;
+}
+
+input[type=number] {
+  height: 45px;
+  width: 45px;
+  font-size: 17px;
+  text-align: center;
+  color: gray;
+}
+
+.form-fild>input {
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  height: 42px;
+}
+
+.wrapper-2.hny {
+  width: 40%;
+  background-color: #f8f8f8;
+  margin: 2rem auto;
+  text-align: center;
+  border-radius: 10px;
+  padding: 16px 0;
+}
